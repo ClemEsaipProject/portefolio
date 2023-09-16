@@ -1,0 +1,11 @@
+body {
+    display: grid;
+    margin: 0;
+    font-family: 'Dosis', sans-serif;
+    background-color: #000;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
