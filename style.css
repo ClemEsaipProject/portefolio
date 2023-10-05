@@ -9,3 +9,8 @@ h1 {
     color: aliceblue;
     text-align: center;
 }
+
+.bg {
+    display: grid;
+    grid-template-columns: (3, 1fr);
+}
